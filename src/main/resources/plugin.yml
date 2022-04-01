@@ -1,0 +1,5 @@
+name: HTTPOnDamage
+version: '${project.version}'
+main: me.jordan.httpondamage.HTTPOnDamage
+api-version: 1.18
+description: Sends an httpget request when player takes damage
